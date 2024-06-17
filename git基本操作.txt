@@ -1,3 +1,4 @@
+clone
 add
 commit
 push
