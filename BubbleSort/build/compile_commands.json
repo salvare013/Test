@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/CodeSet/BubbleSort/build",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  @CMakeFiles/BubbleSort.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\BubbleSort.dir\\src\\bubble.c.obj -c D:\\CodeSet\\BubbleSort\\src\\bubble.c",
+  "file": "D:/CodeSet/BubbleSort/src/bubble.c",
+  "output": "CMakeFiles/BubbleSort.dir/src/bubble.c.obj"
+},
+{
+  "directory": "D:/CodeSet/BubbleSort/build",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe  @CMakeFiles/BubbleSort.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\BubbleSort.dir\\src\\main.c.obj -c D:\\CodeSet\\BubbleSort\\src\\main.c",
+  "file": "D:/CodeSet/BubbleSort/src/main.c",
+  "output": "CMakeFiles/BubbleSort.dir/src/main.c.obj"
+}
+]
